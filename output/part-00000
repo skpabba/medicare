@@ -1,0 +1,1372 @@
+IA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.89090909090909,42222
+IA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.499999999999993,42222
+IA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.215068493150685,42222
+IA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.04791666666667,42222
+IA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.61111111111111,42222
+IA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.014666666666665,42222
+IA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.34657534246575,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.38888888888889,42222
+IA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.975757575757577,42222
+IA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.675757575757574,42222
+IA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.442424242424241,42222
+IA,Death rate for stroke patients,Acute Care Hospitals,15.278125,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.326923076923077,42222
+IA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.087878787878793,42222
+IA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.34242424242424,42222
+IA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.690322580645161,42222
+IA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.870588235294118,42222
+IA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.896969696969702,42222
+IA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.09354838709677,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.55,42222
+IA,Death rate for stroke patients,Critical Access Hospitals,16.046666666666667,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,15.8,42222
+IA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.794999999999999,42222
+IA,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.153333333333332,42222
+IA,Death rate for CABG,Acute Care Hospitals,3.581818181818181,42222
+IA,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.57272727272727,42222
+IA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.65,42222
+IA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.25,42222
+IA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.95,42222
+IA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.5,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.0,42222
+IA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.8,42222
+AL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.793589743589742,32615
+AL,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.984415584415585,32615
+AL,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.23,32615
+AL,Death rate for stroke patients,Acute Care Hospitals,14.992063492063492,32615
+AL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.130379746835445,32615
+AL,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.157142857142855,32615
+AL,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.226666666666666,32615
+AL,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.219277108433733,32615
+AL,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.972499999999997,32615
+AL,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.981250000000005,32615
+AL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.653488372093024,32615
+AL,Death rate for CABG,Acute Care Hospitals,3.8545454545454545,32615
+AL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.428571428571427,32615
+AL,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.563636363636364,32615
+AL,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.85,32615
+AL,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.75,32615
+AL,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.1,32615
+AL,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.85,32615
+AL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.5,32615
+AL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.2,32615
+AL,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.366666666666667,32615
+AL,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.599999999999998,32615
+AL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,9.6,32615
+AL,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.25,32615
+AL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.3,32615
+AK,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.8,61156
+AK,Death rate for CABG,Acute Care Hospitals,2.9,61156
+AK,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.112499999999999,61156
+AK,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.9625,61156
+AK,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.333333333333336,61156
+AK,Death rate for stroke patients,Acute Care Hospitals,15.9,61156
+AK,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.56,61156
+AK,Rate of unplanned readmission for CABG,Acute Care Hospitals,13.9,61156
+AK,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.950000000000003,61156
+AK,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.5,61156
+AK,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.028571428571428,61156
+AK,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.433333333333334,61156
+AK,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.333333333333332,61156
+AK,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.228571428571428,61156
+AK,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.379999999999999,61156
+AK,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.025,61156
+AK,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.119999999999997,61156
+AK,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.84,61156
+AK,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.4,61156
+AK,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.1,61156
+AK,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.0,61156
+AK,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.7,61156
+AZ,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.246153846153845,35195
+AZ,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,10.510000000000002,35195
+AZ,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.52,35195
+AZ,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.300000000000002,35195
+AZ,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.066666666666668,35195
+AZ,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.366666666666664,35195
+AZ,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.033333333333335,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.15454545454545,35195
+AZ,Death rate for CABG,Acute Care Hospitals,3.1666666666666665,35195
+AZ,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.916666666666671,35195
+AZ,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.39166666666666,35195
+AZ,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.094339622641511,35195
+AZ,Death rate for stroke patients,Acute Care Hospitals,14.844186046511627,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.651162790697676,35195
+AZ,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.833333333333334,35195
+AZ,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.218367346938773,35195
+AZ,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.45576923076923,35195
+AZ,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.778260869565217,35195
+AZ,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.936666666666666,35195
+AZ,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.043636363636363,35195
+AZ,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.325581395348838,35195
+AZ,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.785714285714285,35195
+AZ,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,20.833333333333332,35195
+AZ,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.283333333333332,35195
+AZ,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,10.85,35195
+AZ,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.8,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.3,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.8,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.95,35195
+AZ,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.6,35195
+AR,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.371428571428574,31837
+AR,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,13.157142857142855,31837
+AR,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.611904761904762,31837
+AR,Death rate for stroke patients,Acute Care Hospitals,15.583333333333334,31837
+AR,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.66904761904762,31837
+AR,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.876190476190473,31837
+AR,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.663636363636368,31837
+AR,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.397619047619045,31837
+AR,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.905555555555553,31837
+AR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.896153846153847,31837
+AR,Death rate for CABG,Acute Care Hospitals,4.094117647058823,31837
+AR,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.523999999999997,31837
+AR,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.623529411764704,31837
+AR,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.284,31837
+AR,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.814285714285712,31837
+AR,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.251999999999999,31837
+AR,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.840740740740738,31837
+AR,Death rate for stroke patients,Critical Access Hospitals,15.377777777777778,31837
+AR,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.834782608695654,31837
+AR,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.22,31837
+AR,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.324137931034485,31837
+AR,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.92962962962963,31837
+AR,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.81111111111111,31837
+AR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.8,31837
+AR,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.75,31837
+AR,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.649999999999999,31837
+AR,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.9,31837
+AR,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.25,31837
+AR,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.1,31837
+AR,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.733333333333333,31837
+CA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.865217391304343,46029
+CA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.676890756302519,46029
+CA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.1265306122449,46029
+CA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.250602409638546,46029
+CA,Death rate for stroke patients,Acute Care Hospitals,14.42755555555556,46029
+CA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.160165975103737,46029
+CA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.073493975903634,46029
+CA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.71887755102041,46029
+CA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.157586206896552,46029
+CA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.850199203187255,46029
+CA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.826106194690269,46029
+CA,Death rate for CABG,Acute Care Hospitals,3.05049504950495,46029
+CA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.967357512953363,46029
+CA,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.771999999999997,46029
+CA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.475,46029
+CA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.725,46029
+CA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.3375,46029
+CA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.775,46029
+CA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.975,46029
+CA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.475,46029
+CA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.796,46029
+CA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.228571428571428,46029
+CA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.645833333333336,46029
+CA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.754545454545454,46029
+CA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.335294117647058,46029
+CA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.147058823529417,46029
+CA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.057894736842103,46029
+CA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.240000000000002,46029
+CA,Death rate for stroke patients,Critical Access Hospitals,15.3125,46029
+CA,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.828571428571427,46029
+CA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.6,46029
+CO,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.390476190476189,46242
+CO,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.03703703703704,46242
+CO,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.55238095238095,46242
+CO,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.45,46242
+CO,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.55,46242
+CO,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.6,46242
+CO,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.15,46242
+CO,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.036585365853663,46242
+CO,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.419565217391305,46242
+CO,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.25365853658537,46242
+CO,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.134210526315787,46242
+CO,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.857499999999998,46242
+CO,Death rate for stroke patients,Acute Care Hospitals,15.48611111111111,46242
+CO,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.202631578947365,46242
+CO,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.6125,46242
+CO,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.756818181818181,46242
+CO,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,11.836111111111109,46242
+CO,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.812500000000001,46242
+CO,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.775,46242
+CO,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.950000000000003,46242
+CO,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.127272727272732,46242
+CO,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.800000000000001,46242
+CO,Death rate for stroke patients,Critical Access Hospitals,15.9,46242
+CO,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.796969696969693,46242
+CO,Death rate for CABG,Acute Care Hospitals,3.266666666666666,46242
+CO,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.465625,46242
+CO,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.35,46242
+CO,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.7,46242
+CO,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.2,46242
+CT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.7,54925
+CT,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.6,54925
+CT,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.5,54925
+CT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.2,54925
+CT,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.7,54925
+CT,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.0,54925
+CT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.896296296296297,54925
+CT,Death rate for CABG,Acute Care Hospitals,2.87,54925
+CT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.471428571428571,54925
+CT,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.200000000000003,54925
+CT,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.59310344827586,54925
+CT,Death rate for stroke patients,Acute Care Hospitals,14.496296296296297,54925
+CT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.352,54925
+CT,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.37,54925
+CT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,21.12142857142857,54925
+CT,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.846428571428564,54925
+CT,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.9,54925
+CT,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.399999999999999,54925
+CT,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.320689655172416,54925
+CT,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.748148148148148,54925
+DE,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.4,61183
+DE,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.6,61183
+DE,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.2,61183
+DE,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.4,61183
+DE,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.316666666666668,61183
+DE,Death rate for CABG,Acute Care Hospitals,3.3666666666666667,61183
+DE,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.1499999999999995,61183
+DE,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,10.700000000000001,61183
+DE,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.549999999999999,61183
+DE,Death rate for stroke patients,Acute Care Hospitals,13.066666666666668,61183
+DE,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.78333333333333,61183
+DE,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.0,61183
+DE,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.233333333333334,61183
+DE,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.150000000000002,61183
+DE,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.779999999999999,61183
+DE,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.5,61183
+DE,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.933333333333334,61183
+DE,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.283333333333331,61183
+DC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.1,145663
+DC,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.4,145663
+DC,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.6,145663
+DC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.0,145663
+DC,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,26.3,145663
+DC,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.1,145663
+DC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.85714285714286,145663
+DC,Death rate for CABG,Acute Care Hospitals,2.25,145663
+DC,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.814285714285715,145663
+DC,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,10.485714285714284,145663
+DC,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.885714285714286,145663
+DC,Death rate for stroke patients,Acute Care Hospitals,13.42857142857143,145663
+DC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.185714285714287,145663
+DC,Rate of unplanned readmission for CABG,Acute Care Hospitals,12.1,145663
+DC,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,21.371428571428574,145663
+DC,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,23.271428571428572,145663
+DC,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.76,145663
+DC,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.971428571428572,145663
+DC,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.614285714285717,145663
+DC,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,14.814285714285713,145663
+FL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.107947019867542,34802
+FL,Death rate for CABG,Acute Care Hospitals,3.2600000000000007,34802
+FL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.669512195121953,34802
+FL,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.362804878048781,34802
+FL,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.17757575757576,34802
+FL,Death rate for stroke patients,Acute Care Hospitals,14.682467532467532,34802
+FL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.316083916083915,34802
+FL,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.372972972972972,34802
+FL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.362804878048784,34802
+FL,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.630487804878037,34802
+FL,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.906802721088438,34802
+FL,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.829341317365284,34802
+FL,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.12787878787879,34802
+FL,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.059477124183006,34802
+FL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.080000000000002,34802
+FL,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.26,34802
+FL,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.639999999999999,34802
+FL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.340000000000003,34802
+FL,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,24.160000000000004,34802
+FL,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.24,34802
+FL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.590000000000001,34802
+FL,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.263636363636364,34802
+FL,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.941666666666668,34802
+FL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.160000000000004,34802
+FL,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.754545454545454,34802
+FL,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,14.969230769230771,34802
+FL,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.416666666666668,34802
+FL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.2,34802
+FL,Death rate for stroke patients,Critical Access Hospitals,15.2,34802
+FL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.0,34802
+FL,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.9,34802
+FL,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.15,34802
+GA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.821649484536081,37702
+GA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.60526315789474,37702
+GA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.021212121212118,37702
+GA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.08762886597939,37702
+GA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.824210526315802,37702
+GA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.088235294117654,37702
+GA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.98585858585859,37702
+GA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.448484848484854,37702
+GA,Death rate for stroke patients,Acute Care Hospitals,15.084722222222224,37702
+GA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.968333333333327,37702
+GA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.98904109589041,37702
+GA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.83943661971831,37702
+GA,Death rate for CABG,Acute Care Hospitals,3.7222222222222223,37702
+GA,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.300000000000002,37702
+GA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.95,37702
+GA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.366666666666667,37702
+GA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.466666666666667,37702
+GA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.8,37702
+GA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.566666666666666,37702
+GA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.433333333333334,37702
+GA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.764285714285713,37702
+GA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.971428571428573,37702
+GA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.20909090909091,37702
+GA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.90666666666667,37702
+GA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.873684210526317,37702
+GA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.166666666666664,37702
+GA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.743478260869566,37702
+GA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.1,37702
+HI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.759999999999996,44442
+HI,Death rate for CABG,Acute Care Hospitals,2.875,44442
+HI,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.845454545454547,44442
+HI,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.666666666666666,44442
+HI,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.07272727272727,44442
+HI,Death rate for stroke patients,Acute Care Hospitals,15.275,44442
+HI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.640000000000004,44442
+HI,Rate of unplanned readmission for CABG,Acute Care Hospitals,13.65,44442
+HI,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.245454545454546,44442
+HI,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.850000000000005,44442
+HI,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.6499999999999995,44442
+HI,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.441666666666668,44442
+HI,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.60833333333333,44442
+HI,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.200000000000001,44442
+HI,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.6,44442
+HI,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.2,44442
+HI,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.7,44442
+HI,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.4,44442
+ID,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.53,31945
+ID,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.73,31945
+ID,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.680000000000001,31945
+ID,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,18.94,31945
+ID,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.119999999999997,31945
+ID,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.633333333333334,31945
+ID,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.276923076923074,31945
+ID,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.23,31945
+ID,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.988888888888889,31945
+ID,Death rate for CABG,Acute Care Hospitals,3.02,31945
+ID,Death rate for stroke patients,Acute Care Hospitals,16.755555555555553,31945
+ID,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,15.600000000000001,31945
+ID,Rate of unplanned readmission for CABG,Acute Care Hospitals,13.620000000000001,31945
+ID,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.011111111111113,31945
+ID,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.027999999999997,31945
+ID,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.623809523809527,31945
+ID,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.863636363636365,31945
+ID,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.800000000000002,31945
+ID,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.053846153846152,31945
+ID,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.77272727272727,31945
+ID,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.658333333333334,31945
+ID,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.6,31945
+ID,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.7,31945
+ID,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.2,31945
+ID,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.9,31945
+ID,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.7,31945
+ID,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.0,31945
+ID,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.4,31945
+ID,Death rate for stroke patients,Critical Access Hospitals,15.300000000000002,31945
+ID,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.200000000000001,31945
+IL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.97685185185185,46151
+IL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.431707317073169,46151
+IL,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.150806451612896,46151
+IL,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.229268292682931,46151
+IL,Death rate for stroke patients,Acute Care Hospitals,14.340540540540545,46151
+IL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.191262135922322,46151
+IL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.51138211382114,46151
+IL,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.304838709677405,46151
+IL,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.050961538461536,46151
+IL,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.540000000000004,46151
+IL,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.51626016260163,46151
+IL,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.146363636363638,46151
+IL,Death rate for CABG,Acute Care Hospitals,3.3403508771929826,46151
+IL,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.09636363636364,46151
+IL,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.784782608695653,46151
+IL,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.036170212765956,46151
+IL,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.335416666666669,46151
+IL,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.23829787234043,46151
+IL,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.991489361702122,46151
+IL,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.800000000000001,46151
+IL,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.381632653061228,46151
+IL,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.870833333333326,46151
+IL,Death rate for stroke patients,Critical Access Hospitals,15.080000000000002,46151
+IL,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.585714285714285,46151
+IL,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.48,46151
+IL,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.120000000000001,46151
+IL,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.22,46151
+IL,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.3,46151
+IL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,13.850000000000001,46151
+IL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.7,46151
+IL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.35,46151
+IL,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.049999999999997,46151
+IN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.435483870967744,39065
+IN,Death rate for CABG,Acute Care Hospitals,3.1531250000000006,39065
+IN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.664102564102565,39065
+IN,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.016455696202533,39065
+IN,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.533333333333339,39065
+IN,Death rate for stroke patients,Acute Care Hospitals,15.073529411764703,39065
+IN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.808928571428574,39065
+IN,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.96875,39065
+IN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.13333333333333,39065
+IN,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.48227848101266,39065
+IN,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.795833333333333,39065
+IN,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.752325581395347,39065
+IN,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.54615384615385,39065
+IN,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.532352941176471,39065
+IN,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.456250000000002,39065
+IN,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.697142857142856,39065
+IN,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.703030303030307,39065
+IN,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,14.994285714285716,39065
+IN,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.66,39065
+IN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.644117647058823,39065
+IN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.82941176470588,39065
+IN,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.9444444444444455,39065
+IN,Death rate for stroke patients,Critical Access Hospitals,15.66923076923077,39065
+IN,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.822222222222223,39065
+IN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.333333333333334,39065
+IN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.85,39065
+IN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.9,39065
+IN,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.149999999999999,39065
+IN,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.2,39065
+IN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.6,39065
+IN,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.85,39065
+IN,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.25,39065
+KS,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.2025641025641,41070
+KS,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.907317073170736,41070
+KS,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.387804878048781,41070
+KS,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.85641025641026,41070
+KS,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.104878048780485,41070
+KS,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.767999999999999,41070
+KS,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.68048780487805,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.213636363636363,41070
+KS,Death rate for stroke patients,Acute Care Hospitals,15.049999999999995,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.495454545454546,41070
+KS,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.792499999999998,41070
+KS,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.67666666666667,41070
+KS,Death rate for CABG,Acute Care Hospitals,3.292857142857143,41070
+KS,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.585714285714285,41070
+KS,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.671874999999998,41070
+KS,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.975000000000005,41070
+KS,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.25945945945946,41070
+KS,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.301388888888892,41070
+KS,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.701492537313435,41070
+KS,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.125,41070
+KS,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.009999999999998,41070
+KS,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.888235294117642,41070
+KS,Death rate for stroke patients,Critical Access Hospitals,15.816666666666668,41070
+KS,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.375000000000002,41070
+KS,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.8,41070
+KS,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.9,41070
+KS,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.9,41070
+KS,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.75,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.0,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.8,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.0,41070
+KS,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.7,41070
+LA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.659999999999999,43145
+LA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.914285714285713,43145
+LA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.260294117647064,43145
+LA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.885185185185185,43145
+LA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.409523809523805,43145
+LA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.99142857142857,43145
+LA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.597872340425532,43145
+LA,Death rate for CABG,Acute Care Hospitals,3.7037037037037033,43145
+LA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.680882352941175,43145
+LA,Death rate for stroke patients,Acute Care Hospitals,14.589795918367354,43145
+LA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.052380952380958,43145
+LA,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.077777777777774,43145
+LA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.419718309859146,43145
+LA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.779591836734696,43145
+LA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.811111111111114,43145
+LA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.48,43145
+LA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.342857142857142,43145
+LA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,17.211111111111112,43145
+LA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.521428571428571,43145
+LA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.428571428571427,43145
+LA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.914285714285715,43145
+LA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.45,43145
+LA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.95,43145
+LA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.75,43145
+LA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.9,43145
+LA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.5,43145
+LA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.0,43145
+ME,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.833333333333336,34597
+ME,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.822222222222223,34597
+ME,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.138888888888888,34597
+ME,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.950000000000001,34597
+ME,Death rate for stroke patients,Acute Care Hospitals,15.305882352941179,34597
+ME,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.425,34597
+ME,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.700000000000003,34597
+ME,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.716666666666665,34597
+ME,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.670588235294117,34597
+ME,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.955555555555556,34597
+ME,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.544444444444444,34597
+ME,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.247058823529409,34597
+ME,Death rate for CABG,Acute Care Hospitals,3.566666666666667,34597
+ME,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.0,34597
+ME,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.409090909090912,34597
+ME,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.035714285714286,34597
+ME,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.9,34597
+ME,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.053333333333333,34597
+ME,Death rate for stroke patients,Critical Access Hospitals,15.2,34597
+ME,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.06666666666666,34597
+ME,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.600000000000005,34597
+ME,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.012499999999999,34597
+ME,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.300000000000002,34597
+ME,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.625,34597
+ME,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.028571428571427,34597
+ME,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,17.114285714285717,34597
+ME,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.9,34597
+ME,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.6,34597
+ME,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.8,34597
+ME,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.4,34597
+MD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.0,46720
+MD,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.9,46720
+MD,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.5,46720
+MD,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.9,46720
+MD,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,26.2,46720
+MD,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.6,46720
+MD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.059999999999997,46720
+MD,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.82272727272727,46720
+MD,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,10.879545454545452,46720
+MD,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.643181818181818,46720
+MD,Death rate for stroke patients,Acute Care Hospitals,14.976190476190476,46720
+MD,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.020512820512824,46720
+MD,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.268181818181816,46720
+MD,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.58636363636363,46720
+MD,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.166666666666666,46720
+MD,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.615909090909092,46720
+MD,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.554545454545455,46720
+MD,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.248837209302327,46720
+MD,Death rate for CABG,Acute Care Hospitals,2.977777777777778,46720
+MD,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.311111111111112,46720
+MA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.560784313725494,53221
+MA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,6.781481481481482,53221
+MA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,10.45925925925926,53221
+MA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.164285714285716,53221
+MA,Death rate for stroke patients,Acute Care Hospitals,13.982692307692306,53221
+MA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.193749999999998,53221
+MA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.76481481481481,53221
+MA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.427777777777777,53221
+MA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.948076923076924,53221
+MA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.535087719298248,53221
+MA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.166071428571424,53221
+MA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.000000000000002,53221
+MA,Death rate for CABG,Acute Care Hospitals,2.621428571428571,53221
+MA,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.5,53221
+MA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.566666666666667,53221
+MA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.133333333333333,53221
+MA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.299999999999999,53221
+MA,Death rate for stroke patients,Critical Access Hospitals,13.7,53221
+MA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.933333333333334,53221
+MA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.899999999999995,53221
+MA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.299999999999999,53221
+MA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.46666666666667,53221
+MA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.7,53221
+MA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.5,53221
+MA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.7,53221
+MA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,7.6,53221
+MA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.3,53221
+MA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.2,53221
+MA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,24.1,53221
+MA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.6,53221
+MI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.99041095890411,35298
+MI,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.631818181818179,35298
+MI,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.389655172413793,35298
+MI,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.839325842696633,35298
+MI,Death rate for stroke patients,Acute Care Hospitals,14.803658536585361,35298
+MI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.937313432835825,35298
+MI,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.06704545454546,35298
+MI,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.83563218390804,35298
+MI,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.827906976744185,35298
+MI,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.346153846153847,35298
+MI,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.02584269662922,35298
+MI,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.724390243902443,35298
+MI,Death rate for CABG,Acute Care Hospitals,2.9878787878787874,35298
+MI,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.927272727272724,35298
+MI,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.06,35298
+MI,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.8,35298
+MI,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.880000000000003,35298
+MI,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.68,35298
+MI,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.8482758620689665,35298
+MI,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.02258064516129,35298
+MI,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.975862068965515,35298
+MI,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.859999999999999,35298
+MI,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.17878787878788,35298
+MI,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.522580645161288,35298
+MI,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.286956521739132,35298
+MI,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.820000000000004,35298
+MI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.375,35298
+MI,Death rate for stroke patients,Critical Access Hospitals,15.571428571428571,35298
+MI,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.542857142857143,35298
+MI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.65,35298
+MI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.25,35298
+MI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.8,35298
+MN,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.872000000000005,47028
+MN,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.7,47028
+MN,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.13013698630137,47028
+MN,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.675000000000004,47028
+MN,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.83448275862069,47028
+MN,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.64848484848485,47028
+MN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.81851851851852,47028
+MN,Death rate for CABG,Acute Care Hospitals,3.0,47028
+MN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.7586956521739125,47028
+MN,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.382608695652172,47028
+MN,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.137500000000001,47028
+MN,Death rate for stroke patients,Acute Care Hospitals,14.68333333333333,47028
+MN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.708,47028
+MN,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.515384615384612,47028
+MN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.158695652173922,47028
+MN,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.617391304347827,47028
+MN,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.876086956521739,47028
+MN,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.99183673469388,47028
+MN,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.920833333333338,47028
+MN,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.202777777777776,47028
+MN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.961538461538461,47028
+MN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.153333333333332,47028
+MN,Death rate for stroke patients,Critical Access Hospitals,14.7,47028
+MN,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.25,47028
+MN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.9,47028
+MN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.9,47028
+MN,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.4,47028
+MN,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.7,47028
+MN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.4,47028
+MN,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.3,47028
+MN,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.5,47028
+MS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.672413793103448,28944
+MS,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.844444444444442,28944
+MS,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.929090909090906,28944
+MS,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.49272727272727,28944
+MS,Death rate for stroke patients,Acute Care Hospitals,14.520454545454545,28944
+MS,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.484,28944
+MS,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.822222222222223,28944
+MS,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,23.02727272727272,28944
+MS,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.024999999999999,28944
+MS,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.664912280701756,28944
+MS,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.35555555555555,28944
+MS,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.20222222222222,28944
+MS,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.787499999999999,28944
+MS,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.038888888888888,28944
+MS,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.8,28944
+MS,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.36363636363636,28944
+MS,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.25238095238095,28944
+MS,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.285714285714286,28944
+MS,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,17.15384615384615,28944
+MS,Death rate for CABG,Acute Care Hospitals,3.7764705882352945,28944
+MS,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.429411764705886,28944
+MS,Death rate for stroke patients,Critical Access Hospitals,13.95,28944
+MS,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.8,28944
+MS,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.0,28944
+MS,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.6,28944
+MS,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.25,28944
+MS,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.35,28944
+MS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.6,28944
+MS,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.8,28944
+MO,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.241818181818179,36815
+MO,Death rate for CABG,Acute Care Hospitals,3.2903225806451624,36815
+MO,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.762162162162162,36815
+MO,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.936619718309862,36815
+MO,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.716000000000001,36815
+MO,Death rate for stroke patients,Acute Care Hospitals,14.894736842105265,36815
+MO,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.951923076923073,36815
+MO,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.225806451612904,36815
+MO,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.36351351351351,36815
+MO,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.04861111111111,36815
+MO,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.0015625,36815
+MO,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.351315789473693,36815
+MO,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.245333333333335,36815
+MO,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.6,36815
+MO,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.604166666666667,36815
+MO,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.06086956521739,36815
+MO,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.788888888888884,36815
+MO,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.288461538461544,36815
+MO,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.25652173913043,36815
+MO,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.521428571428572,36815
+MO,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.735714285714288,36815
+MO,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.825,36815
+MO,Death rate for stroke patients,Critical Access Hospitals,13.533333333333331,36815
+MO,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,13.100000000000001,36815
+MO,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.1,36815
+MO,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.325,36815
+MO,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.325,36815
+MO,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.633333333333333,36815
+MO,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.450000000000003,36815
+MO,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.225,36815
+MT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.154545454545454,33204
+MT,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.045454545454547,33204
+MT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.099999999999998,33204
+MT,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.623076923076923,33204
+MT,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.12727272727273,33204
+MT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.988888888888887,33204
+MT,Death rate for CABG,Acute Care Hospitals,4.159999999999999,33204
+MT,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.270000000000001,33204
+MT,Death rate for stroke patients,Acute Care Hospitals,15.711111111111112,33204
+MT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.044444444444444,33204
+MT,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.02,33204
+MT,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.09,33204
+MT,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.641666666666667,33204
+MT,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,11.644444444444444,33204
+MT,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.131249999999998,33204
+MT,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.036000000000001,33204
+MT,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.462500000000002,33204
+MT,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.584,33204
+MT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.908333333333332,33204
+MT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.27692307692308,33204
+MT,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.825,33204
+MT,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.129999999999999,33204
+MT,Death rate for stroke patients,Critical Access Hospitals,14.557142857142859,33204
+MT,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.7,33204
+MT,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.8,33204
+MT,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.5,33204
+MT,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.7,33204
+MT,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.466666666666667,33204
+NE,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.31578947368421,44943
+NE,Death rate for CABG,Acute Care Hospitals,3.1375,44943
+NE,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.544444444444444,44943
+NE,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.394736842105265,44943
+NE,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.133333333333333,44943
+NE,Death rate for stroke patients,Acute Care Hospitals,15.11111111111111,44943
+NE,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.56470588235294,44943
+NE,Rate of unplanned readmission for CABG,Acute Care Hospitals,13.962499999999999,44943
+NE,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.8,44943
+NE,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.64736842105263,44943
+NE,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.485714285714286,44943
+NE,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.404347826086955,44943
+NE,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.961111111111112,44943
+NE,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.18888888888889,44943
+NE,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.026229508196723,44943
+NE,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.67037037037037,44943
+NE,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.17222222222222,44943
+NE,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.9263157894736835,44943
+NE,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.370833333333332,44943
+NE,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.312500000000004,44943
+NE,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.36538461538462,44943
+NE,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.729411764705882,44943
+NE,Death rate for stroke patients,Critical Access Hospitals,14.219999999999999,44943
+NE,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.16,44943
+NE,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.9,44943
+NE,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.6,44943
+NE,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.8,44943
+NE,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.2,44943
+NE,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.4,44943
+NE,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.3,44943
+NV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,15.0,41029
+NV,Death rate for CABG,Acute Care Hospitals,3.8666666666666667,41029
+NV,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.309999999999999,41029
+NV,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.014999999999999,41029
+NV,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.27142857142857,41029
+NV,Death rate for stroke patients,Acute Care Hospitals,16.03529411764706,41029
+NV,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.458823529411767,41029
+NV,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.925000000000002,41029
+NV,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.925,41029
+NV,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.729999999999997,41029
+NV,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.771428571428572,41029
+NV,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.545454545454549,41029
+NV,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.26666666666667,41029
+NV,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.700000000000001,41029
+NV,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.499999999999998,41029
+NV,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.299999999999999,41029
+NV,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.95,41029
+NV,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.475,41029
+NV,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,17.25714285714286,41029
+NV,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.833333333333332,41029
+NV,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.583333333333332,41029
+NV,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.949999999999999,41029
+NV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.5,41029
+NV,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.3,41029
+NV,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.6,41029
+NV,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.2,41029
+NV,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.7,41029
+NV,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.5,41029
+NV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,13.3,41029
+NH,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.27142857142857,42958
+NH,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.030769230769229,42958
+NH,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.42727272727273,42958
+NH,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.576923076923078,42958
+NH,Death rate for stroke patients,Critical Access Hospitals,15.6,42958
+NH,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.115384615384617,42958
+NH,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.141666666666666,42958
+NH,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.745454545454546,42958
+NH,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.26923076923077,42958
+NH,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.46923076923077,42958
+NH,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.414285714285713,42958
+NH,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.730769230769228,42958
+NH,Death rate for CABG,Acute Care Hospitals,2.95,42958
+NH,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.423076923076923,42958
+NH,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.46923076923077,42958
+NH,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.323076923076922,42958
+NH,Death rate for stroke patients,Acute Care Hospitals,14.76923076923077,42958
+NH,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.323076923076925,42958
+NH,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.3,42958
+NH,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.084615384615383,42958
+NH,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.653846153846153,42958
+NH,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.791666666666667,42958
+NH,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.038461538461538,42958
+NH,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.084615384615383,42958
+NH,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,11.915384615384616,42958
+NH,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.950000000000003,42958
+NJ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.974193548387099,49430
+NJ,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.579365079365081,49430
+NJ,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,10.81428571428571,49430
+NJ,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.870312499999997,49430
+NJ,Death rate for stroke patients,Acute Care Hospitals,13.94193548387096,49430
+NJ,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.359016393442626,49430
+NJ,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.884126984126976,49430
+NJ,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.953968253968245,49430
+NJ,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.0960784313725505,49430
+NJ,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.810937500000003,49430
+NJ,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.234374999999993,49430
+NJ,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.595161290322578,49430
+NJ,Death rate for CABG,Acute Care Hospitals,2.6764705882352935,49430
+NJ,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.958823529411761,49430
+NJ,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.5,49430
+NJ,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.7,49430
+NJ,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.3,49430
+NJ,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.6,49430
+NM,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.01818181818182,33900
+NM,Death rate for CABG,Acute Care Hospitals,2.9,33900
+NM,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.374999999999998,33900
+NM,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.852,33900
+NM,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.934482758620693,33900
+NM,Death rate for stroke patients,Acute Care Hospitals,15.447368421052628,33900
+NM,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.31,33900
+NM,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.0,33900
+NM,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.791666666666664,33900
+NM,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.336000000000002,33900
+NM,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.83,33900
+NM,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.306666666666668,33900
+NM,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.479310344827592,33900
+NM,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.388888888888888,33900
+NM,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.5125,33900
+NM,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.42222222222222,33900
+NM,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.925,33900
+NM,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.557142857142857,33900
+NM,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.650000000000002,33900
+NM,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.3,33900
+NM,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.359999999999996,33900
+NM,Death rate for stroke patients,Critical Access Hospitals,15.850000000000001,33900
+NM,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.1,33900
+NM,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.7,33900
+NM,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.6,33900
+NM,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.3,33900
+NM,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.5,33900
+NM,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.5,33900
+NM,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.9,33900
+NY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.031851851851853,53067
+NY,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.76712328767123,53067
+NY,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.436986301369862,53067
+NY,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.305442176870747,53067
+NY,Death rate for stroke patients,Acute Care Hospitals,14.539393939393934,53067
+NY,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.336585365853654,53067
+NY,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,21.139726027397263,53067
+NY,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,23.305479452054794,53067
+NY,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.809909909909909,53067
+NY,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,16.120134228187908,53067
+NY,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.75646258503401,53067
+NY,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.39140625,53067
+NY,Death rate for CABG,Acute Care Hospitals,2.6941176470588237,53067
+NY,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.847058823529412,53067
+NY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.133333333333333,53067
+NY,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.6375,53067
+NY,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.325000000000001,53067
+NY,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.759999999999998,53067
+NY,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.262500000000003,53067
+NY,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.125,53067
+NY,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.192307692307692,53067
+NY,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.89230769230769,53067
+NY,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.529999999999999,53067
+NY,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.9625,53067
+NY,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.763636363636365,53067
+NY,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.29,53067
+NY,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.376923076923074,53067
+NY,Rate of readmission after hip/knee surgery,Critical Access Hospitals,3.6,53067
+NC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.222972972972974,40289
+NC,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.851219512195124,40289
+NC,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.758536585365855,40289
+NC,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.004878048780487,40289
+NC,Death rate for stroke patients,Acute Care Hospitals,15.276543209876532,40289
+NC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.847540983606553,40289
+NC,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.939024390243908,40289
+NC,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.953658536585365,40289
+NC,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.922368421052631,40289
+NC,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.075581395348834,40289
+NC,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.01707317073171,40289
+NC,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.83125,40289
+NC,Death rate for CABG,Acute Care Hospitals,3.0181818181818176,40289
+NC,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.768181818181814,40289
+NC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.149999999999999,40289
+NC,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.575,40289
+NC,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.325,40289
+NC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.75,40289
+NC,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.375,40289
+NC,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.075,40289
+NC,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.731250000000001,40289
+NC,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.622222222222222,40289
+NC,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.025000000000006,40289
+NC,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.331578947368419,40289
+NC,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.59444444444445,40289
+NC,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.235714285714284,40289
+NC,Death rate for stroke patients,Critical Access Hospitals,14.9,40289
+NC,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.026666666666664,40289
+NC,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.742857142857144,40289
+NC,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.05,40289
+NC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.0,40289
+NC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.2,40289
+OH,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.863,37690
+OH,Death rate for CABG,Acute Care Hospitals,3.263461538461539,37690
+OH,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.551260504201683,37690
+OH,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.16974789915966,37690
+OH,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.225000000000001,37690
+OH,Death rate for stroke patients,Acute Care Hospitals,14.665420560747666,37690
+OH,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.09111111111111,37690
+OH,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.396,37690
+OH,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.54083333333332,37690
+OH,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.196638655462184,37690
+OH,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.9811965811965795,37690
+OH,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.228682170542633,37690
+OH,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.10083333333334,37690
+OH,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.767307692307694,37690
+OH,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.566666666666668,37690
+OH,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.375,37690
+OH,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.075,37690
+OH,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.733333333333334,37690
+OH,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.650000000000002,37690
+OH,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.575,37690
+OH,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.703448275862071,37690
+OH,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.491999999999997,37690
+OH,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.990322580645161,37690
+OH,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.19,37690
+OH,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.66296296296296,37690
+OH,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.124999999999998,37690
+OH,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.683870967741928,37690
+OH,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.773333333333334,37690
+OH,Death rate for stroke patients,Critical Access Hospitals,14.799999999999999,37690
+OH,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.2,37690
+OK,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.53125,36252
+OK,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.758571428571429,36252
+OK,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.898550724637685,36252
+OK,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.793333333333331,36252
+OK,Death rate for stroke patients,Acute Care Hospitals,15.002272727272727,36252
+OK,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.01290322580645,36252
+OK,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.3388888888889,36252
+OK,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.782608695652172,36252
+OK,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.899999999999999,36252
+OK,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.021590909090907,36252
+OK,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.888,36252
+OK,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.763636363636364,36252
+OK,Death rate for CABG,Acute Care Hospitals,3.4066666666666667,36252
+OK,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.466666666666669,36252
+OK,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.699999999999999,36252
+OK,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.80909090909091,36252
+OK,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.043333333333331,36252
+OK,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.183333333333334,36252
+OK,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.59090909090909,36252
+OK,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.280645161290325,36252
+OK,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.768965517241377,36252
+OK,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.899999999999999,36252
+OK,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.25,36252
+OK,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.4,36252
+OK,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.299999999999997,36252
+OK,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.15,36252
+OK,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.5,36252
+OK,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.7,36252
+OR,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.6,48069
+OR,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.536842105263158,48069
+OR,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.317391304347824,48069
+OR,Death rate for stroke patients,Critical Access Hospitals,16.176923076923078,48069
+OR,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.755555555555553,48069
+OR,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.53333333333333,48069
+OR,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.779999999999999,48069
+OR,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,14.958333333333336,48069
+OR,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.60869565217391,48069
+OR,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.372727272727273,48069
+OR,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.65,48069
+OR,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,8.5,48069
+OR,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.15,48069
+OR,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.7,48069
+OR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.137499999999998,48069
+OR,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.293548387096775,48069
+OR,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,13.10967741935484,48069
+OR,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.9375,48069
+OR,Death rate for stroke patients,Acute Care Hospitals,15.910714285714283,48069
+OR,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.434782608695656,48069
+OR,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.434374999999996,48069
+OR,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.019354838709678,48069
+OR,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.520689655172415,48069
+OR,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.561764705882355,48069
+OR,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.284375,48069
+OR,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.185714285714285,48069
+OR,Death rate for CABG,Acute Care Hospitals,2.975,48069
+OR,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.074999999999998,48069
+OR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.3,48069
+OR,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.4,48069
+PA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.007438016528926,40063
+PA,Death rate for CABG,Acute Care Hospitals,3.200000000000001,40063
+PA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.529411764705881,40063
+PA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.430434782608694,40063
+PA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.064963503649633,40063
+PA,Death rate for stroke patients,Acute Care Hospitals,14.273770491803276,40063
+PA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.150892857142857,40063
+PA,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.681034482758623,40063
+PA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.32647058823529,40063
+PA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.101449275362327,40063
+PA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.92777777777778,40063
+PA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.36644295302014,40063
+PA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.88029197080293,40063
+PA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.909166666666668,40063
+PA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.866666666666665,40063
+PA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.516666666666667,40063
+PA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.45,40063
+PA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.533333333333335,40063
+PA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.049999999999997,40063
+PA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.583333333333332,40063
+PA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.630000000000001,40063
+PA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.2,40063
+PA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.79090909090909,40063
+PA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.779999999999998,40063
+PA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.66,40063
+PA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.463636363636367,40063
+PA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.881818181818183,40063
+PA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.7,40063
+PA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,13.966666666666667,40063
+PA,Death rate for stroke patients,Critical Access Hospitals,15.5,40063
+PA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.8,40063
+PA,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,13.4,40063
+RI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.34,41678
+RI,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.87,41678
+RI,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.41,41678
+RI,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,10.680000000000001,41678
+RI,Death rate for stroke patients,Acute Care Hospitals,14.5,41678
+RI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.19,41678
+RI,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.740000000000002,41678
+RI,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.34,41678
+RI,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.733333333333333,41678
+RI,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.390909090909092,41678
+RI,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.729999999999997,41678
+RI,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.47,41678
+RI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.8,41678
+RI,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.2,41678
+RI,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.5,41678
+RI,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.6,41678
+RI,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,24.2,41678
+RI,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.4,41678
+RI,Death rate for CABG,Acute Care Hospitals,4.1,41678
+RI,Rate of unplanned readmission for CABG,Acute Care Hospitals,16.3,41678
+SC,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.854716981132076,31881
+SC,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.964150943396229,31881
+SC,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.764150943396228,31881
+SC,Death rate for stroke patients,Acute Care Hospitals,14.771111111111109,31881
+SC,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.052830188679245,31881
+SC,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.675471698113206,31881
+SC,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.904761904761904,31881
+SC,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.101785714285715,31881
+SC,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.175471698113206,31881
+SC,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.604255319148939,31881
+SC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.310810810810807,31881
+SC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.990909090909096,31881
+SC,Death rate for CABG,Acute Care Hospitals,3.0823529411764703,31881
+SC,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.441176470588236,31881
+SC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.600000000000001,31881
+SC,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.25,31881
+SC,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.8,31881
+SC,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.15,31881
+SC,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.450000000000003,31881
+SC,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.549999999999997,31881
+SC,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.04,31881
+SC,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.36,31881
+SC,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,17.22,31881
+SC,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.233333333333333,31881
+SC,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.799999999999999,31881
+SC,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.533333333333335,31881
+SC,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.7,31881
+SC,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.7,31881
+SD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,13.666666666666668,43181
+SD,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.254545454545454,43181
+SD,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.416666666666666,43181
+SD,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.523076923076921,43181
+SD,Death rate for stroke patients,Acute Care Hospitals,15.839999999999998,43181
+SD,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.41111111111111,43181
+SD,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.608333333333334,43181
+SD,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.175,43181
+SD,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.6875,43181
+SD,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.584210526315792,43181
+SD,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,15.738461538461538,43181
+SD,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,11.780000000000001,43181
+SD,Death rate for CABG,Acute Care Hospitals,3.133333333333333,43181
+SD,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.866666666666667,43181
+SD,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.749999999999999,43181
+SD,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.934615384615382,43181
+SD,Death rate for stroke patients,Critical Access Hospitals,15.65,43181
+SD,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.27777777777778,43181
+SD,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.157142857142857,43181
+SD,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.68846153846154,43181
+SD,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,11.95,43181
+SD,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.399999999999999,43181
+SD,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.95,43181
+SD,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.55,43181
+SD,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.549999999999997,43181
+SD,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.87,43181
+SD,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.25,43181
+SD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,13.6,43181
+SD,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.8,43181
+SD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.3,43181
+TN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.459999999999997,37254
+TN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.768604651162789,37254
+TN,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.069318181818181,37254
+TN,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.265168539325842,37254
+TN,Death rate for stroke patients,Acute Care Hospitals,15.136231884057972,37254
+TN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.984,37254
+TN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.556321839080457,37254
+TN,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.171111111111106,37254
+TN,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.73090909090909,37254
+TN,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.369892473118279,37254
+TN,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.280898876404493,37254
+TN,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.872058823529409,37254
+TN,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.989999999999998,37254
+TN,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.525,37254
+TN,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.800000000000004,37254
+TN,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.387499999999999,37254
+TN,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.644444444444446,37254
+TN,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.637500000000003,37254
+TN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.733333333333333,37254
+TN,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.933333333333332,37254
+TN,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.6,37254
+TN,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.63333333333333,37254
+TN,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,24.0,37254
+TN,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.46666666666667,37254
+TN,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.1,37254
+TN,Death rate for CABG,Acute Care Hospitals,3.2545454545454544,37254
+TN,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.104545454545455,37254
+TN,Death rate for stroke patients,Critical Access Hospitals,16.3,37254
+TN,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,11.7,37254
+TX,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.29116465863453,46498
+TX,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.90776699029126,46498
+TX,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.952508361204023,46498
+TX,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.77261904761905,46498
+TX,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.33216374269005,46498
+TX,Death rate for CABG,Acute Care Hospitals,3.5075471698113234,46498
+TX,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.683050847457625,46498
+TX,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.574793388429756,46498
+TX,Death rate for stroke patients,Acute Care Hospitals,14.622162162162164,46498
+TX,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.820987654320987,46498
+TX,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.963809523809525,46498
+TX,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.78708333333333,46498
+TX,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.72571428571428,46498
+TX,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.666129032258068,46498
+TX,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.506451612903224,46498
+TX,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.696296296296298,46498
+TX,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.41219512195122,46498
+TX,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.378125,46498
+TX,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.756666666666668,46498
+TX,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.191304347826087,46498
+TX,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.82439024390244,46498
+TX,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.15,46498
+TX,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.540000000000001,46498
+TX,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.040000000000001,46498
+TX,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.28,46498
+TX,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.92,46498
+TX,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,24.44,46498
+TX,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.46,46498
+UT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.014285714285714,39158
+UT,Death rate for CABG,Acute Care Hospitals,3.2000000000000006,39158
+UT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.305555555555554,39158
+UT,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.399999999999999,39158
+UT,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.892857142857142,39158
+UT,Death rate for stroke patients,Acute Care Hospitals,15.649999999999997,39158
+UT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.435714285714287,39158
+UT,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.4875,39158
+UT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.235294117647058,39158
+UT,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.791999999999998,39158
+UT,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.764285714285714,39158
+UT,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.634375,39158
+UT,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.175862068965518,39158
+UT,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.007142857142856,39158
+UT,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.260000000000002,39158
+UT,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.6,39158
+UT,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.974999999999998,39158
+UT,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.1,39158
+UT,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.6,39158
+UT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.1,39158
+UT,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.2,39158
+UT,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.5,39158
+UT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.1,39158
+UT,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,19.2,39158
+UT,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.2,39158
+VT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.566666666666665,38198
+VT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.866666666666667,38198
+VT,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.933333333333335,38198
+VT,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.016666666666666,38198
+VT,Death rate for stroke patients,Acute Care Hospitals,15.5,38198
+VT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.16,38198
+VT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.366666666666667,38198
+VT,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.533333333333335,38198
+VT,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.183333333333334,38198
+VT,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.666666666666666,38198
+VT,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.0,38198
+VT,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.233333333333334,38198
+VT,Death rate for CABG,Acute Care Hospitals,3.2,38198
+VT,Rate of unplanned readmission for CABG,Acute Care Hospitals,17.0,38198
+VT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,14.5,38198
+VT,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.1,38198
+VT,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,9.7,38198
+VT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.6,38198
+VT,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,21.6,38198
+VT,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.8,38198
+VT,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.337499999999999,38198
+VT,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.149999999999999,38198
+VT,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.3625,38198
+VT,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.528571428571428,38198
+VT,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,13.0,38198
+VT,Death rate for stroke patients,Critical Access Hospitals,16.083333333333332,38198
+VT,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,21.11428571428571,38198
+VT,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.828571428571426,38198
+VT,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.633333333333333,38198
+VT,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.299999999999999,38198
+VT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.975,38198
+VT,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,16.8,38198
+VA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.320312500000002,47127
+VA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.8915492957746505,47127
+VA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.655555555555557,47127
+VA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.771428571428572,47127
+VA,Death rate for stroke patients,Acute Care Hospitals,15.08030303030303,47127
+VA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.23166666666667,47127
+VA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.581690140845065,47127
+VA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.50416666666667,47127
+VA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.2666666666666675,47127
+VA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.430555555555555,47127
+VA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.527142857142863,47127
+VA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.180303030303032,47127
+VA,Death rate for CABG,Acute Care Hospitals,2.7600000000000002,47127
+VA,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.305000000000001,47127
+VA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.083333333333334,47127
+VA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.116666666666667,47127
+VA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.366666666666664,47127
+VA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.049999999999997,47127
+VA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.216666666666667,47127
+VA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.633333333333333,47127
+VA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.26,47127
+VA,Death rate for stroke patients,Critical Access Hospitals,14.166666666666666,47127
+VA,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,11.833333333333334,47127
+VA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.8,47127
+VA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.5,47127
+VA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.25,47127
+VA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.4,47127
+VA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.033333333333333,47127
+VA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.55,47127
+VA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.266666666666666,47127
+VA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.3,47127
+WA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.52272727272727,47146
+WA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.446808510638297,47146
+WA,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.84042553191489,47146
+WA,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.77826086956522,47146
+WA,Death rate for stroke patients,Acute Care Hospitals,15.175,47146
+WA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.776744186046518,47146
+WA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.714893617021275,47146
+WA,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.57659574468084,47146
+WA,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.637777777777777,47146
+WA,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,14.581250000000004,47146
+WA,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.67234042553192,47146
+WA,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.002173913043476,47146
+WA,Death rate for CABG,Acute Care Hospitals,3.31764705882353,47146
+WA,Rate of unplanned readmission for CABG,Acute Care Hospitals,14.017647058823528,47146
+WA,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.0,47146
+WA,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.35,47146
+WA,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.549999999999997,47146
+WA,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.25,47146
+WA,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,14.991428571428573,47146
+WA,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.506896551724138,47146
+WA,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.374999999999996,47146
+WA,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.295238095238094,47146
+WA,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,19.961904761904755,47146
+WA,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.162499999999998,47146
+WA,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.794117647058815,47146
+WA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.6,47146
+WA,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,16.8,47146
+WA,Death rate for stroke patients,Critical Access Hospitals,16.44,47146
+WA,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.6899999999999995,47146
+WA,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.25,47146
+WA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,14.85,47146
+WV,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.505882352941177,30389
+WV,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.565000000000001,30389
+WV,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.521052631578947,30389
+WV,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,22.30666666666667,30389
+WV,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.250000000000004,30389
+WV,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,17.134999999999998,30389
+WV,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,11.863636363636363,30389
+WV,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.35,30389
+WV,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,12.0,30389
+WV,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,23.450000000000003,30389
+WV,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,18.925,30389
+WV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.574999999999998,30389
+WV,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,7.635714285714286,30389
+WV,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.648148148148149,30389
+WV,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.353571428571431,30389
+WV,Death rate for stroke patients,Acute Care Hospitals,15.395833333333336,30389
+WV,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,17.22380952380953,30389
+WV,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,21.25357142857143,30389
+WV,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,22.977777777777774,30389
+WV,Rate of readmission after hip/knee surgery,Acute Care Hospitals,5.066666666666666,30389
+WV,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.592857142857138,30389
+WV,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,17.982142857142858,30389
+WV,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,13.234782608695653,30389
+WV,Rate of readmission after hip/knee surgery,Critical Access Hospitals,5.550000000000001,30389
+WV,Death rate for stroke patients,Critical Access Hospitals,15.5,30389
+WV,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.15,30389
+WV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,13.4,30389
+WV,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.400000000000002,30389
+WV,Death rate for CABG,Acute Care Hospitals,3.8833333333333333,30389
+WV,Rate of unplanned readmission for CABG,Acute Care Hospitals,17.183333333333334,30389
+WY,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.144444444444444,54305
+WY,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,12.922222222222222,54305
+WY,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,12.18888888888889,54305
+WY,Death rate for stroke patients,Acute Care Hospitals,15.85714285714286,54305
+WY,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,20.18888888888889,54305
+WY,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,21.599999999999998,54305
+WY,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.9,54305
+WY,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.059999999999999,54305
+WY,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.477777777777778,54305
+WY,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.159999999999998,54305
+WY,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,8.185714285714287,54305
+WY,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,12.024999999999999,54305
+WY,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.085714285714285,54305
+WY,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.925,54305
+WY,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.683333333333334,54305
+WY,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,13.2,54305
+WY,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.742857142857144,54305
+WY,Death rate for stroke patients,Critical Access Hospitals,15.0,54305
+WY,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,11.9,54305
+WY,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.7,54305
+WY,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,11.45,54305
+WY,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,22.4,54305
+WY,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,17.4,54305
+WY,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.2,54305
+WY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.133333333333335,54305
+WY,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.46666666666667,54305
+WY,Death rate for CABG,Acute Care Hospitals,3.75,54305
+WY,Rate of unplanned readmission for CABG,Acute Care Hospitals,16.25,54305
+ND,Pneumonia (PN) 30-Day Mortality Rate,Critical Access Hospitals,11.768750000000004,55250
+ND,Rate of readmission after discharge from hospital (hospital-wide),Critical Access Hospitals,15.040625,55250
+ND,Pneumonia (PN) 30-Day Readmission Rate,Critical Access Hospitals,16.68125,55250
+ND,Death rate for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,7.938461538461538,55250
+ND,Heart failure (HF) 30-Day Mortality Rate,Critical Access Hospitals,12.446666666666667,55250
+ND,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Critical Access Hospitals,20.146153846153847,55250
+ND,Heart failure (HF) 30-Day Readmission Rate,Critical Access Hospitals,21.111764705882354,55250
+ND,Death rate for stroke patients,Critical Access Hospitals,16.6,55250
+ND,Rate of readmission after hip/knee surgery,Critical Access Hospitals,4.8,55250
+ND,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Critical Access Hospitals,15.3,55250
+ND,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Critical Access Hospitals,17.4,55250
+ND,Rate of unplanned readmission for stroke patients,Critical Access Hospitals,12.6,55250
+ND,Pneumonia (PN) 30-Day Mortality Rate,Acute Care Hospitals,11.600000000000003,55250
+ND,Rate of readmission after discharge from hospital (hospital-wide),Acute Care Hospitals,15.142857142857142,55250
+ND,Pneumonia (PN) 30-Day Readmission Rate,Acute Care Hospitals,16.499999999999996,55250
+ND,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,Acute Care Hospitals,14.383333333333335,55250
+ND,Death rate for CABG,Acute Care Hospitals,3.5,55250
+ND,Death rate for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,8.816666666666668,55250
+ND,Heart failure (HF) 30-Day Mortality Rate,Acute Care Hospitals,11.75,55250
+ND,Death rate for stroke patients,Acute Care Hospitals,16.766666666666666,55250
+ND,Acute Myocardial Infarction (AMI) 30-Day Readmission Rate,Acute Care Hospitals,16.716666666666665,55250
+ND,Rate of unplanned readmission for CABG,Acute Care Hospitals,15.450000000000001,55250
+ND,Rate of unplanned readmission for chronic obstructive pulmonary disease (COPD) patients,Acute Care Hospitals,19.48333333333333,55250
+ND,Heart failure (HF) 30-Day Readmission Rate,Acute Care Hospitals,20.46666666666667,55250
+ND,Rate of readmission after hip/knee surgery,Acute Care Hospitals,4.55,55250
+ND,Rate of unplanned readmission for stroke patients,Acute Care Hospitals,12.200000000000001,55250
+ND,Heart failure (HF) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.5,55250
+ND,Pneumonia (PN) 30-Day Mortality Rate,ACUTE CARE - VETERANS ADMINISTRATION,10.1,55250
+ND,Heart failure (HF) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,20.4,55250
+ND,Pneumonia (PN) 30-Day Readmission Rate,ACUTE CARE - VETERANS ADMINISTRATION,15.0,55250
