@@ -8,19 +8,21 @@ done using Spark.
 Requirements
 ------------
 
-* Spark 1.6
+* Spark 1.6 or 
+* Spark 2.1
 
 Usage
 -----
 
-Once built, the application can be run using any of the standard ways to
-run a spark application (spark-submit, the Altus Data Engineering API, etc).
+Once built (mvn clean package -pspark21 or mvn clean package -pspark16), the application can be run using any of the standard ways to run a spark application (spark-submit, the Altus Data Engineering API, etc).
 
 * mainClass: com.cloudera.altus.sample.medicare.transform
 * arguments:
   * 1: directory containing data files
   * 2: directory to put output files into
   * Either or both locations can be HDFS or S3 paths.
+
+_For your convenience jars for Spark 1.6 and 2.1 are built and are in lib/_
 
 Source Code
 -----------
